@@ -5,6 +5,7 @@
 The test class `RunModelsTest` has two test methods:
 
 🟢 `testRunTensorFlowModel`: original method from JRedisAI test suite - *PASS*
+
 🔴 `testRunTorchScriptModel`: the method in question - *FAIL*
 
 ## Using RedisAI docker image edge
